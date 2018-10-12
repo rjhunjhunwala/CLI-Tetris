@@ -1,10 +1,13 @@
 # CLI-Tetris
-The poor UX you never Wanted...
-Have you ever wanted to play tetris, but without any kind of UX... well... I have just the project or you...
+### The poor user experience you never wanted, but I deliver anyway
+<hr/>
+Have you ever wanted to play tetris, but without any kind of interface? Do you enjoy mashing your keyboard in frustration?
+<hr/>
+<br/>
+Well! I have just the project or you!
 This project was mostly hacked together over the course of an hour, but It's technically a valid tetris port... 
-
-Just look at this responsive UX....
-
+<hr/>
+Just look at this responsive design!
 <pre>
 ______@_____
 ______@@____
